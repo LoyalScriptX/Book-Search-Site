@@ -21,15 +21,15 @@ BookBreeze offers a seamless, user-friendly interface that allows you to search 
 ### Web Platform
 To set up the BookBreeze web platform locally:
 
-1 Clone the repository:
++ Clone the repository:
 
 
  * git clone https://github.com/LoyalScriptX/bookbreeze.git
  * cd bookbreeze
-2 Install dependencies: Since the node_modules folder is not included, you need to install the dependencies using npm:
++ Install dependencies: Since the node_modules folder is not included, you need to install the dependencies using npm:
 
  * npm install
-3 Start the development server:
++ Start the development server:
 
 
 * npm start
@@ -38,12 +38,12 @@ The application should automatically open in your browser at http://localhost:30
 ### Chrome Extension
 To install the BookBreeze Chrome extension:
 
-1 Load the extension:
++ Load the extension:
 
   * Open Chrome and navigate to chrome://extensions/.
   * Enable "Developer mode" in the top right corner.
   * Click "Load unpacked" and select the extension folder from the project directory.
-2 Use the extension:
++ Use the extension:
 
 Once loaded, the BookBreeze icon should appear in your Chrome toolbar. Click it to start searching for books directly from your browser.
 ## Usage
