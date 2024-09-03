@@ -1,5 +1,5 @@
 # Book-Search-Site
-##BookBreeze
+#BookBreeze
 BookBreeze is a versatile web platform and Chrome extension designed to enhance your book discovery experience. Whether you're searching for specific titles, exploring authors' works, or finding books similar to your favorites, BookBreeze is your go-to tool for all things literary.
 
 ##Table of Contents
