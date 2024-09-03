@@ -3,19 +3,19 @@
 BookBreeze is a versatile web platform and Chrome extension designed to enhance your book discovery experience. Whether you're searching for specific titles, exploring authors' works, or finding books similar to your favorites, BookBreeze is your go-to tool for all things literary.
 
 ## Table of Contents
-*Description
-*Features
-*Installation
-*Usage
-*Acknowledgments
+* Description
+* Features
+* Installation
+* Usage
+* Acknowledgments
 ## Description
 BookBreeze offers a seamless, user-friendly interface that allows you to search for books, view detailed information such as the author, edition, and publication year, and discover similar reads. The Chrome extension adds an extra layer of convenience, enabling quick book searches directly from your browser.
 
 ## Features
-*Comprehensive Book Search: Find books by title, author, or genre.
-*Detailed Information: Access detailed book information including author, edition, and publication year.
-*Similar Book Recommendations: Discover books related to your favorite reads.
-*Chrome Extension: Instantly search for books and get recommendations without leaving your browser.
+* Comprehensive Book Search: Find books by title, author, or genre.
+* Detailed Information: Access detailed book information including author, edition, and publication year.
+* Similar Book Recommendations: Discover books related to your favorite reads.
+* Chrome Extension: Instantly search for books and get recommendations without leaving your browser.
 
 ## Installation
 ### Web Platform
