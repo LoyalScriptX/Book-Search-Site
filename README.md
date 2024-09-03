@@ -21,18 +21,18 @@ BookBreeze offers a seamless, user-friendly interface that allows you to search 
 ### Web Platform
 To set up the BookBreeze web platform locally:
 
-* Clone the repository:
+1 Clone the repository:
 
 
-git clone https://github.com/LoyalScriptX/bookbreeze.git
-cd bookbreeze
-* Install dependencies: Since the node_modules folder is not included, you need to install the dependencies using npm:
+ * git clone https://github.com/LoyalScriptX/bookbreeze.git
+ * cd bookbreeze
+2 Install dependencies: Since the node_modules folder is not included, you need to install the dependencies using npm:
 
-npm install
-* Start the development server:
+ * npm install
+3 Start the development server:
 
 
-npm start
+* npm start
 The application should automatically open in your browser at http://localhost:3000.
 
 ### Chrome Extension
